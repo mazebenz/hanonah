@@ -1,2 +1,1 @@
-# hanonah
-Hanonah site
+<img src= "Hanosite/static/hanosite/image/hanojpg.jpg" >
